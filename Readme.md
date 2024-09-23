@@ -6,7 +6,7 @@ Brief description of the project.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/Madanmady-git/indian_cuisine_backend.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -19,13 +19,13 @@ Brief description of the project.
 
 ## Usage
 
-- To start the server in development mode:
+- To start the server:
     ```bash
-    npm run dev
+    node app.js
     ```
-- To start the server in production mode:
+- To start the server with nodemon:
     ```bash
-    npm start
+    nodemon app.js
     ```
 - To run tests:
     ```bash
