@@ -19,13 +19,13 @@ Brief description of the project.
 
 ## Usage
 
-- To start the server in development mode:
+- To start the server:
     ```bash
-    npm run dev
+    node app.js
     ```
-- To start the server in production mode:
+- To start the server with nodemon:
     ```bash
-    npm start
+    nodemon app.js
     ```
 - To run tests:
     ```bash
